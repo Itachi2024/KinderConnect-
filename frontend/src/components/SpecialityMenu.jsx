@@ -5,7 +5,7 @@ const SpecialityMenu = () => {
     const phases = [
         {
             title: "Phase 1",
-            subtitle: "Discovery & Planning",
+            subtitle: "Aman ki chut",
             icon: Clock,
             content: [
                 "Initial consultation",
