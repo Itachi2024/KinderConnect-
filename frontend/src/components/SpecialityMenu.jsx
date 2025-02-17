@@ -5,35 +5,35 @@ const SpecialityMenu = () => {
     const phases = [
         {
             title: "Phase 1",
-            subtitle: "Aman ki chut",
+            subtitle: "Connecting Psychiatrists",
             icon: Clock,
             content: [
-                "Initial consultation",
-                "Requirements gathering",
-                "Project scope definition",
-                "Timeline planning",
+                "Secure platform for psychiatrists",
+                "Online counseling sessions",
+                "Feedback for session improvement",
+                "Identify communication gaps",
             ],
         },
         {
             title: "Phase 2",
-            subtitle: "Development & Testing",
+            subtitle: "Virtual Interactive Robot",
             icon: Rocket,
             content: [
-                "Design implementation",
-                "Core functionality development",
-                "Quality assurance",
-                "User testing feedback",
+                "AI-powered 3D virtual robot",
+                " Empathetic responses and assessments",
+                "Safe emotional expression space",
+                " Enhanced user communication",
             ],
         },
         {
             title: "Phase 3",
-            subtitle: "Launch & Support",
+            subtitle: "AI-Powered Robotic Companion",
             icon: CheckCircle,
             content: [
-                "Final optimization",
-                "Production deployment",
-                "User training",
-                "Ongoing maintenance",
+                "AI-driven supportive companion",
+                "Monitor mental well-being",
+                "Real-time emotional support",
+                "Safe daily assistance",
             ],
         },
     ];
@@ -43,7 +43,7 @@ const SpecialityMenu = () => {
                 <h2 className="text-3xl font-bold tracking-tight mb-4">Project Phases</h2>
                 <p className="text-gray-600 max-w-2xl mx-auto">
                     Our structured approach ensures successful project delivery through three key phases, each designed to bring
-                    your vision to life.
+                    our vision to life.
                 </p>
             </div>
 
